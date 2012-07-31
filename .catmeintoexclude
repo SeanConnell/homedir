@@ -17,6 +17,21 @@
 .selected_editor
 .sqlite_history
 .ssh/
-.sudo_as_admin_successful
+.viminfo
+.adobe/
+.arduino/
+.avrduderc
+.config/
+.dbus/
+.fontconfig/
+.gconf/
+.icons/
+.macromedia/
+.mplayer/
+.pki/
+.pulse-cookie
+.pulse/
+.xscreensaver
 .xsession-errors
+.xsession-errors.old
 #Cat this into .git/info/exclude

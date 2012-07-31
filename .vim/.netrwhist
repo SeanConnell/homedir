@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/sean/django'
+let g:netrw_dirhist_2='/home/sean'
+let g:netrw_dirhist_3='/home/sean/django/windwatcher/templates'
+let g:netrw_dirhist_4='/home/sean/django/windwatcher'
+let g:netrw_dirhist_5='/home/sean/canvasdeepdive-examples/WebGL'
+let g:netrw_dirhist_6='/home/sean/windwatchdb/django'
+let g:netrw_dirhist_7='/home/sean/windwatchdb'
+let g:netrw_dirhist_8='/home/sean/windwatchdb/django/windwatcher/templates/icarus'

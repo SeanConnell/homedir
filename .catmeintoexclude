@@ -1,0 +1,22 @@
+/*
+!.*
+.Private
+.Xauthority
+.cache/
+.ecryptfs
+.ghc/
+.gitconfig
+.htoprc
+.ipython/
+.irssi/
+.lesshst
+.local/
+.npm/
+.profile
+.pull_ex.txt.swp
+.selected_editor
+.sqlite_history
+.ssh/
+.sudo_as_admin_successful
+.xsession-errors
+#Cat this into .git/info/exclude

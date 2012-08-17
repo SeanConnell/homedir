@@ -34,4 +34,6 @@
 .xscreensaver
 .xsession-errors
 .xsession-errors.old
+.bash_history
+.bash_logout
 #Cat this into .git/info/exclude
